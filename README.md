@@ -45,3 +45,8 @@
 - Explore email configuration independently.
 
 *Note: Ensure to follow the guidelines meticulously and refer to the provided files for accurate IP addresses, subnetting details, and specific network configurations.*
+
+## 9. Table for IP Address
+| Public IP       | Private IP      | A-Hosts | B-Hosts | C-Hosts | D-Hosts | E-Hosts | F-Hosts | G-Hosts | H-Hosts | I-Hosts | J-Hosts | K-Hosts |
+|-----------------|-----------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+| 64.154.214.116  | 192.168.139.243 | 112656  | 22729   | 29488   | 112258  | 18408   | 11968   | 103750  | 68145   | 57400   | 100499  | 16335   |
